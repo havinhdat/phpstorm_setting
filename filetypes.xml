@@ -9,6 +9,7 @@
       <mapping pattern=".gammurc" type="PLAIN_TEXT" />
       <mapping pattern="info" type="PLAIN_TEXT" />
       <mapping pattern="modeminfo&#13;" type="PLAIN_TEXT" />
+      <mapping pattern="Manufacturer         : Wavecom" type="PLAIN_TEXT" />
       <mapping ext="4rdjec8m6u" type="PLAIN_TEXT" />
       <mapping ext="aagdm57ikv" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
