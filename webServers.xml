@@ -2,7 +2,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="548bc9a0-6d06-4634-b50f-0a8e4f189c2b" name="test.kannel" url="http://125.212.198.222">
-        <fileTransfer host="125.212.198.222" port="22" privateKey="C:\Users\pc\Desktop\ssh\test.kannel\id_rsa_1024" accessType="SFTP" keyPair="true">
+        <fileTransfer host="125.212.198.222" port="22" privateKey="C:\Users\pc\Desktop\ssh\test.kannel.live.smsgateway\id_rsa_1024" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
@@ -36,6 +36,6 @@
     </option>
   </component>
   <component name="webServersAuthStorage">
-    <data>AAABIDsf9OGABgE3senSimYbEK/Hr2Mstax6BU8cQsvxJpVgfszw3OTnANk54AnROvbvyA+PfOBa0O1qoePw/eDyRscH5UoKP613KQjPERRnTSgZwBA4CODOeqUBK/FfdYdYHRHRTm9IryQOva9vLgqfWlcQzvhE/c9nQ8NbwdPWtCSoZT9Ojyq4tCYgkuqc5peq+vT4kkqtKgsboTmlP0xDGJH+XOZizkFndN3XvCG9/3F+NTzdK5dpI29xNKrKe7+b5Ua6nIIZJnG4m6KsXoKZz8iCZ4bInkx34c2aZZN1q+wYkgc+XqCMfY1Ft7b0Hmx2/1RxhvKe2c9ZNIvbL8l/LPrkrx04/rZGRIQP2N6N1GmjfgC7yl0nezrbXj+idzBJt5OElgzzpuqyOpr41BgjXEc=</data>
+    <data>AAABID/UhDfi/ilFS34b472Mi6Z/pcR2g2JRxf77QD3SZH4vs3S6AUhvR8A4CNLm8jzYxp+v9mx/8k/PgxM9pNSPc3tw9cUGzJLvd5CCTY0bKEpXfFgwH+6xwhK1hzRx44yi/fXVEhIActz2xYsW7fZZJFUUCJI74G7ulu5WVSYDpDn2XqOuYoyKyFnMOLKG5plsrLd3J2X8J+4j57n4idg/gftfau7kdZk9evc7fwfZadhQkcMN4x5Km46uO1oz05t+xXgdUMnsNt5uj6RKMuxH4up+NIBxoYOAbONnHZP5bLwjutdnEKFv7f437ONH7VuBiBI7Xhywy2kHzsLEswqc54PVGal4ELgeq75XVh8LySh2arSw5D9/modqyk4pZiobaMNcJyrow3D0qSKawci5CE4=</data>
   </component>
 </application>
