@@ -33,9 +33,17 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="f3a0dbc8-b5ec-47cc-bb64-4acf4ed464b1" name="live.kannel" url="http://125.212.198.222">
+        <fileTransfer host="125.212.198.222" port="2222" privateKey="C:\Users\pc\Desktop\ssh\test.kannel.live.smsgateway\id_rsa_1024" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="2222" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
   <component name="webServersAuthStorage">
-    <data>AAABID/UhDfi/ilFS34b472Mi6Z/pcR2g2JRxf77QD3SZH4vs3S6AUhvR8A4CNLm8jzYxp+v9mx/8k/PgxM9pNSPc3tw9cUGzJLvd5CCTY0bKEpXfFgwH+6xwhK1hzRx44yi/fXVEhIActz2xYsW7fZZJFUUCJI74G7ulu5WVSYDpDn2XqOuYoyKyFnMOLKG5plsrLd3J2X8J+4j57n4idg/gftfau7kdZk9evc7fwfZadhQkcMN4x5Km46uO1oz05t+xXgdUMnsNt5uj6RKMuxH4up+NIBxoYOAbONnHZP5bLwjutdnEKFv7f437ONH7VuBiBI7Xhywy2kHzsLEswqc54PVGal4ELgeq75XVh8LySh2arSw5D9/modqyk4pZiobaMNcJyrow3D0qSKawci5CE4=</data>
+    <data>AAABoBA6f6G3CwOKTzR/APJaiz3kAt2AKaBm9AzpjH9kpUMMC8+5Ps3hks3lCOWOAAqkaJtXynKHkfAcAOCk7dGM2n6q9GueWb9lQFPRujV0i4W2S1YnvSzeDI1xBrsPVeKPMKvGchW4GXXgHzZXjM0WSn5kgXlchIt4oa9ZGymEu8rwM+pbYbBNM95Nw/82PdoTleIcuzCqaFqj4zrBSEvIHpc8rt5kXx6ohEohCEgg+FDPSgA9BdhWDDFrjecv1NxWAxGLeEwv/IAOlIXuhmCHOygufgC5py86Jx/bnGOOYVU2mHwPghlbek17IYLrp+n5NVjZ6cSoqFKsb7SzrXon7DlQnREUv5MkU0W+qXTtZ4s0F3e5Kn8QhWrQHIas4n/KOszmyDpjAd3cTEPOWIu+3gmne/Ch+7wXqvmPqWKwaHIPOG7nF7VYuACOt5zygCPusRnIgkjmJhVT06RhIpbfgs9YDmTNKT9iXOCtQFKwfwgJiiqLbmquGsSIfrsX0YZVNfbim1fk5ZAyTry3ZxWnnBR5bbhRT8qlNFZmJ1QjvkiZBgIq/OeYOyLTG5Xw3RRuXw==</data>
   </component>
 </application>
