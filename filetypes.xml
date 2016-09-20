@@ -19,6 +19,7 @@
       <mapping pattern="ttyUSB13" type="PLAIN_TEXT" />
       <mapping pattern="ttyUSB1" type="PLAIN_TEXT" />
       <mapping pattern="ttyUSB0" type="PLAIN_TEXT" />
+      <mapping pattern="iptables" type="PLAIN_TEXT" />
       <mapping ext="swp" type="PLAIN_TEXT" />
       <mapping ext="4rdjec8m6u" type="PLAIN_TEXT" />
       <mapping ext="aagdm57ikv" type="PLAIN_TEXT" />
