@@ -22,6 +22,7 @@
       <mapping pattern="iptables" type="PLAIN_TEXT" />
       <mapping ext="swp" type="PLAIN_TEXT" />
       <mapping ext="4rdjec8m6u" type="PLAIN_TEXT" />
+      <mapping ext="load" type="PLAIN_TEXT" />
       <mapping ext="aagdm57ikv" type="PLAIN_TEXT" />
       <mapping ext="res" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
