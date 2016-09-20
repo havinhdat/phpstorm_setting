@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern=".profile" type="PLAIN_TEXT" />
+      <mapping pattern="envvars" type="PLAIN_TEXT" />
       <mapping pattern="bash" type="PLAIN_TEXT" />
       <mapping pattern="Manufacturer         : Wavecom" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
