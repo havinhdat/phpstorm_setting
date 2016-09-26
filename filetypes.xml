@@ -10,6 +10,7 @@
       <mapping pattern="ttyUSB16" type="PLAIN_TEXT" />
       <mapping pattern="gammurc" type="PLAIN_TEXT" />
       <mapping pattern="ttyUSB10" type="PLAIN_TEXT" />
+      <mapping pattern="test-sendsms.sh" type="PLAIN_TEXT" />
       <mapping pattern="modeminfo" type="PLAIN_TEXT" />
       <mapping pattern="modeminfo&#13;" type="PLAIN_TEXT" />
       <mapping pattern="info" type="PLAIN_TEXT" />
