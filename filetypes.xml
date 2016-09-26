@@ -16,6 +16,7 @@
       <mapping pattern="info" type="PLAIN_TEXT" />
       <mapping pattern="linh-sa" type="PLAIN_TEXT" />
       <mapping pattern="mobilebal" type="PLAIN_TEXT" />
+      <mapping pattern="null" type="PLAIN_TEXT" />
       <mapping pattern=".bash_history" type="PLAIN_TEXT" />
       <mapping pattern=".gammurc" type="PLAIN_TEXT" />
       <mapping pattern="ttyUSB13" type="PLAIN_TEXT" />
