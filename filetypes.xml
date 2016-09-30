@@ -23,6 +23,7 @@
       <mapping pattern="ttyUSB1" type="PLAIN_TEXT" />
       <mapping pattern="ttyUSB0" type="PLAIN_TEXT" />
       <mapping pattern="ttyUSB27" type="PLAIN_TEXT" />
+      <mapping pattern="wvdial" type="PLAIN_TEXT" />
       <mapping pattern="ttyUSB24" type="PLAIN_TEXT" />
       <mapping pattern="ttyUSB23" type="PLAIN_TEXT" />
       <mapping pattern="iptables" type="PLAIN_TEXT" />
