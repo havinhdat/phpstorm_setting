@@ -15,6 +15,7 @@
       <mapping pattern="modeminfo&#13;" type="PLAIN_TEXT" />
       <mapping pattern="info" type="PLAIN_TEXT" />
       <mapping pattern="linh-sa" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="mobilebal" type="PLAIN_TEXT" />
       <mapping pattern="null" type="PLAIN_TEXT" />
       <mapping pattern=".bash_history" type="PLAIN_TEXT" />
