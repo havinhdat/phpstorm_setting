@@ -1,38 +1,39 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern=".profile" type="PLAIN_TEXT" />
-      <mapping pattern="envvars" type="PLAIN_TEXT" />
-      <mapping pattern="bash" type="PLAIN_TEXT" />
-      <mapping pattern="Manufacturer         : Wavecom" type="PLAIN_TEXT" />
+      <mapping ext="ctp" type="PHP" />
+      <mapping pattern="gammurc" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern="envvars" type="PLAIN_TEXT" />
+      <mapping pattern="modeminfo&#13;" type="PLAIN_TEXT" />
+      <mapping pattern="iptables" type="PLAIN_TEXT" />
+      <mapping pattern="ttyUSB0" type="PLAIN_TEXT" />
+      <mapping pattern="linh-sa" type="PLAIN_TEXT" />
       <mapping pattern="ttyUSB17" type="PLAIN_TEXT" />
       <mapping pattern="ttyUSB16" type="PLAIN_TEXT" />
-      <mapping pattern="gammurc" type="PLAIN_TEXT" />
       <mapping pattern="ttyUSB10" type="PLAIN_TEXT" />
-      <mapping pattern="test-sendsms.sh" type="PLAIN_TEXT" />
-      <mapping pattern="modeminfo" type="PLAIN_TEXT" />
-      <mapping pattern="modeminfo&#13;" type="PLAIN_TEXT" />
-      <mapping pattern="info" type="PLAIN_TEXT" />
-      <mapping pattern="linh-sa" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="mobilebal" type="PLAIN_TEXT" />
-      <mapping pattern="null" type="PLAIN_TEXT" />
+      <mapping pattern="ttyUSB13" type="PLAIN_TEXT" />
+      <mapping pattern="Manufacturer         : Wavecom" type="PLAIN_TEXT" />
+      <mapping pattern="wvdial" type="PLAIN_TEXT" />
       <mapping pattern=".bash_history" type="PLAIN_TEXT" />
       <mapping pattern=".gammurc" type="PLAIN_TEXT" />
-      <mapping pattern="ttyUSB13" type="PLAIN_TEXT" />
-      <mapping pattern="ttyUSB1" type="PLAIN_TEXT" />
-      <mapping pattern="ttyUSB0" type="PLAIN_TEXT" />
+      <mapping pattern="null" type="PLAIN_TEXT" />
+      <mapping pattern="mobilebal" type="PLAIN_TEXT" />
+      <mapping pattern="bash" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="modeminfo" type="PLAIN_TEXT" />
+      <mapping pattern=".profile" type="PLAIN_TEXT" />
+      <mapping pattern="info" type="PLAIN_TEXT" />
       <mapping pattern="ttyUSB27" type="PLAIN_TEXT" />
-      <mapping pattern="wvdial" type="PLAIN_TEXT" />
+      <mapping pattern="test-sendsms.sh" type="PLAIN_TEXT" />
       <mapping pattern="ttyUSB24" type="PLAIN_TEXT" />
       <mapping pattern="ttyUSB23" type="PLAIN_TEXT" />
-      <mapping pattern="iptables" type="PLAIN_TEXT" />
-      <mapping ext="swp" type="PLAIN_TEXT" />
+      <mapping pattern="ttyUSB1" type="PLAIN_TEXT" />
       <mapping ext="4rdjec8m6u" type="PLAIN_TEXT" />
-      <mapping ext="load" type="PLAIN_TEXT" />
       <mapping ext="aagdm57ikv" type="PLAIN_TEXT" />
+      <mapping ext="swp" type="PLAIN_TEXT" />
       <mapping ext="res" type="PLAIN_TEXT" />
+      <mapping ext="load" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
