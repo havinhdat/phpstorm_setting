@@ -26,7 +26,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="c2b09f2e-8977-4214-8353-1762bd6929f3" name="test.sms" url="http://103.239.121.85">
-        <fileTransfer host="103.239.121.85" port="22" privateKey="C:\Users\pc\Desktop\ssh\test.sms_gateway\pri" rootFolder="/var/www/SmsGateway/source/sms_gateway" accessType="SFTP" keyPair="true">
+        <fileTransfer host="103.239.121.85" port="22" privateKey="C:\Users\pc\Desktop\ssh\test.sms_gateway.else\pri" rootFolder="/var/www/SmsGateway/source/sms_gateway" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
@@ -44,6 +44,6 @@
     </option>
   </component>
   <component name="webServersAuthStorage">
-    <data>AAACQO8i2KrO4xXS4+lDa/lHMrl+9ahbBd4QRoQ8H6v9woUnV70IC7rtnJn55Y+KMZoG8k31AgQpNko57OD2RxSxLOM+c7oHGUjghXXs6mVdXS7P06m7u+rZZ6V+RFJUCADDNrefm2dyD2mwDoN+EoFxHSS8aXTUCUw96/PyRnHVr1mSkWdksJhXJCIgcuHPeaptueImccpLbXkvJpQThkkP2XEOR6loIQ/sNc18XZBK0vRgICGxYUG+A5hWxT9Gl+q3Hrn3xcIfFjvmtvE2cyKlWe5eE8+96U8x42Lru14Rj2pd4YCtgD5A6xMSO3fKkPU995t8hQuK/BYPyL9Usa5MQiNFnnh3z0907oOxQ7Y+3aDtVN7XDw5obl5Qatcibs+rPk36+Y/29ANYlrXwHDsOmHA6ICeEqIU8ywMKINlAxwbDHvI15bHf7CSgt5UYdumdcBft1xWJ1HLAWTxK0py77kdCJnOPbNpEVdzhtmgzCS3RX9gz9EjHqTKJToeKEcWj3yQMuuxacCdHVnRKctBVAImdnG1M9xvqWkon9b3+3brA+gZ6QLjYxCLMjQqU0zbf8ZkdtHnNZlYTXN6yXnNoAih9dydrTwj6IwGFoFguMh4XxbiN00zt65q6OM2bbDaysJt7vwWWAvc34MM/P7eac06GOhL9HIUxsOtcXG0oJC4T8CcHaYMYRB4sOCxRxbRQmhNcU3Y6VreqzB7IbKfck/UKRa/QbeAtFkTjjJGx21+Lnb5eDuZguXVhUp8nADGb2TsXIaiw0uI6LcVbfenf2gE=</data>
+    <data>AAACQFUueJ/lV01giIhrT9N5Zf4YCrBB/1btI0in8VwXYfGOxmrrekRexMANBY4p2Kazc/iQ5k0eeAQ8Iuux+5gh+MDhqU0vbGhBsqchebKg31D9d6ZJPDx7qgABchD4JaSqgUxnfZUQXv3dWcImu72N7/ikUO5P1sAicGYLNCOTsfioLSntHbBv256fhbwpScnCLbf0Qn0eAWeFhcRwk0FH6CPjBlzWXSNByJPYnl2yN1i34sAVLjm85BJ4iGzXhWeYPhgPsPA0THLSpebHHDS0CnQO89Qihxb/lxxSWVdBklYm0K7j9FGfCxJxK6U4XGEaw8/cJZw2e9rcVaJfkrPOgS1JR3LULkdbxcuJjormB+rY4hrkCqMRQhC99b26NgeV8syLkIX5dE+uDfVoSAK9o0bPjL5GB5vi77KqW79OsYynV2NUK+NNbMaATq9TR3KYdZGgjr8GUcxgVqpfNfcwPhJ0FASjLKpCD+R/MfkNfaOthaCf7Cn/4TQH7hPtI+XFzCAtSwtQYntLQkyE6naML6AjPEuFBomrm1Mqc5G/C/coFz/kwEeEHX/zAuYPsLlq6tHYvTX2T245GSHZ0FfKZMnfxL9cR4aUEgs4J6CM2W0uADJjPioQROgJ+Hd7cZ0prMCwS+N4PhB7tCOugnIecGuib33eRV1qKaLpPI9UV4KROZ1bcNA1sIMOOelxCXZuPjDRgy2Jk5YhrgEL6xBG4j6TDuHwLMLZu4BlNpjI4Vw01qljl14xyP1vfP0dqsADqJxUkFxY4358RUsTz1VrTbs=</data>
   </component>
 </application>
