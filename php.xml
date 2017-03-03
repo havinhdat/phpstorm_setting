@@ -165,6 +165,12 @@
             <configuration_option name="precision" value="14" />
             <configuration_option name="realpath_cache_size" value="16K" />
             <configuration_option name="realpath_cache_ttl" value="120" />
+            <configuration_option name="redis.arrays.autorehash" value="" />
+            <configuration_option name="redis.arrays.functions" value="" />
+            <configuration_option name="redis.arrays.hosts" value="" />
+            <configuration_option name="redis.arrays.index" value="" />
+            <configuration_option name="redis.arrays.names" value="" />
+            <configuration_option name="redis.arrays.previous" value="" />
             <configuration_option name="register_argc_argv" value="1" />
             <configuration_option name="report_memleaks" value="1" />
             <configuration_option name="report_zend_debug" value="0" />
@@ -335,6 +341,7 @@
             <extension name="pcre" />
             <extension name="pdo_mysql" />
             <extension name="pdo_sqlite" />
+            <extension name="redis" />
             <extension name="session" />
             <extension name="soap" />
             <extension name="sqlite3" />
