@@ -1,0 +1,7 @@
+<templateSet group="PHP">
+  <template name="is" value="&quot;..&quot;" description="insert in middle of string" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP String Literal" value="true" />
+    </context>
+  </template>
+</templateSet>
