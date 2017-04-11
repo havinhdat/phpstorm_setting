@@ -42,7 +42,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="b2affd69-6410-4b7b-bf90-eb5698dfd309" name="test.41" url="http://125.212.194.41">
-        <fileTransfer host="125.212.194.41" port="22" privateKey="C:\Users\pc\Desktop\ssh\test.sms_gateway.else\pri" rootFolder="/var/www/test.garena/www/hotro" accessType="SFTP" keyPair="true">
+        <fileTransfer host="125.212.194.41" port="22" privateKey="C:\Users\pc\Desktop\ssh\test.sms_gateway.else\pri" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
