@@ -50,7 +50,7 @@
             <configuration_option name="error_append_string" value="" />
             <configuration_option name="error_log" value="D:\xampp\php\logs\php_error_log" />
             <configuration_option name="error_prepend_string" value="" />
-            <configuration_option name="error_reporting" value="22527" />
+            <configuration_option name="error_reporting" value="32767" />
             <configuration_option name="exif.decode_jis_intel" value="JIS" />
             <configuration_option name="exif.decode_jis_motorola" value="JIS" />
             <configuration_option name="exif.decode_unicode_intel" value="UCS-2LE" />
