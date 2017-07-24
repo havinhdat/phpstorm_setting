@@ -1,15 +1,15 @@
 <application>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter home="D:\xampp\php\php.exe" id="82242518-373a-43e1-b87c-7ce1df2bcc4c" name="PHP 5.6" debugger_id="php.debugger.XDebug" />
+      <interpreter home="D:\AppDir\xampp\php\php.exe" id="82242518-373a-43e1-b87c-7ce1df2bcc4c" name="PHP 5.6" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP 5.6">
-        <phpinfo binary_type="PHP" php_cgi="D:\xampp\php\php-cgi.exe" php_cli="D:\xampp\php\php.exe" path_separator=";" version="5.6.24">
+        <phpinfo binary_type="PHP" php_cgi="D:\AppDir\xampp\php\php-cgi.exe" php_cli="D:\AppDir\xampp\php\php.exe" path_separator=";" version="5.6.30">
           <additional_php_ini />
-          <configuration_file>D:\xampp\php\php.ini</configuration_file>
+          <configuration_file>D:\AppDir\xampp\php\php.ini</configuration_file>
           <configuration_options>
             <configuration_option name="SMTP" value="localhost" />
             <configuration_option name="allow_url_fopen" value="1" />
@@ -28,8 +28,8 @@
             <configuration_option name="auto_globals_jit" value="1" />
             <configuration_option name="auto_prepend_file" value="" />
             <configuration_option name="bcmath.scale" value="0" />
-            <configuration_option name="browscap" value="D:\xampp\php\extras\browscap.ini" />
-            <configuration_option name="curl.cainfo" value="D:/xampp/php/cacert.pem" />
+            <configuration_option name="browscap" value="D:\AppDir\xampp\php\extras\browscap.ini" />
+            <configuration_option name="curl.cainfo" value="D:/AppDir/xampp/php/cacert.pem" />
             <configuration_option name="date.default_latitude" value="31.7667" />
             <configuration_option name="date.default_longitude" value="35.2333" />
             <configuration_option name="date.sunrise_zenith" value="90.583333" />
@@ -48,7 +48,7 @@
             <configuration_option name="enable_dl" value="" />
             <configuration_option name="enable_post_data_reading" value="1" />
             <configuration_option name="error_append_string" value="" />
-            <configuration_option name="error_log" value="D:\xampp\php\logs\php_error_log" />
+            <configuration_option name="error_log" value="D:\AppDir\xampp\php\logs\php_error_log" />
             <configuration_option name="error_prepend_string" value="" />
             <configuration_option name="error_reporting" value="32767" />
             <configuration_option name="exif.decode_jis_intel" value="JIS" />
@@ -59,7 +59,7 @@
             <configuration_option name="exif.encode_unicode" value="ISO-8859-15" />
             <configuration_option name="exit_on_timeout" value="0" />
             <configuration_option name="expose_php" value="1" />
-            <configuration_option name="extension_dir" value="D:\xampp\php\ext" />
+            <configuration_option name="extension_dir" value="D:\AppDir\xampp\php\ext" />
             <configuration_option name="file_uploads" value="1" />
             <configuration_option name="filter.default" value="unsafe_raw" />
             <configuration_option name="filter.default_flags" value="" />
@@ -78,7 +78,7 @@
             <configuration_option name="ignore_repeated_source" value="" />
             <configuration_option name="ignore_user_abort" value="0" />
             <configuration_option name="implicit_flush" value="1" />
-            <configuration_option name="include_path" value="D:\xampp\php\PEAR" />
+            <configuration_option name="include_path" value="D:\AppDir\xampp\php\PEAR" />
             <configuration_option name="input_encoding" value="" />
             <configuration_option name="internal_encoding" value="" />
             <configuration_option name="intl.default_locale" value="" />
@@ -198,7 +198,7 @@
             <configuration_option name="session.name" value="PHPSESSID" />
             <configuration_option name="session.referer_check" value="" />
             <configuration_option name="session.save_handler" value="files" />
-            <configuration_option name="session.save_path" value="D:\xampp\tmp" />
+            <configuration_option name="session.save_path" value="D:\AppDir\xampp\tmp" />
             <configuration_option name="session.serialize_handler" value="php" />
             <configuration_option name="session.upload_progress.cleanup" value="1" />
             <configuration_option name="session.upload_progress.enabled" value="1" />
@@ -227,7 +227,7 @@
             <configuration_option name="track_errors" value="" />
             <configuration_option name="unserialize_callback_func" value="" />
             <configuration_option name="upload_max_filesize" value="2M" />
-            <configuration_option name="upload_tmp_dir" value="D:\xampp\tmp" />
+            <configuration_option name="upload_tmp_dir" value="D:\AppDir\xampp\tmp" />
             <configuration_option name="url_rewriter.tags" value="a=href,area=href,frame=src,input=src,form=fakeentry" />
             <configuration_option name="user_agent" value="" />
             <configuration_option name="user_dir" value="" />
@@ -269,7 +269,7 @@
             <configuration_option name="xdebug.profiler_enable" value="" />
             <configuration_option name="xdebug.profiler_enable_trigger" value="" />
             <configuration_option name="xdebug.profiler_enable_trigger_value" value="" />
-            <configuration_option name="xdebug.profiler_output_dir" value="D:/working-tools/xampp/tmp" />
+            <configuration_option name="xdebug.profiler_output_dir" value="D:/AppDir/xampp/tmp" />
             <configuration_option name="xdebug.profiler_output_name" value="cachegrind.out.%t.%p" />
             <configuration_option name="xdebug.remote_addr_header" value="" />
             <configuration_option name="xdebug.remote_autostart" value="1" />
@@ -333,6 +333,7 @@
             <extension name="gettext" />
             <extension name="hash" />
             <extension name="iconv" />
+            <extension name="imap" />
             <extension name="intl" />
             <extension name="json" />
             <extension name="libxml" />
