@@ -41,7 +41,15 @@
           <option name="port" value="2222" />
         </fileTransfer>
       </webServer>
-      <webServer id="b2affd69-6410-4b7b-bf90-eb5698dfd309" name="test.41" url="http://125.212.194.41">
+      <webServer id="b2affd69-6410-4b7b-bf90-eb5698dfd309" name="test.ved.com.vn/cskh" url="http://125.212.194.41">
+        <fileTransfer host="125.212.194.41" port="22" privateKey="C:\Users\VinhDat\OneDrive\ssh\TEST_VED\TEST_VED" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="bf2b668c-8d4c-4714-a8f7-653b9eb80614" name="test.ved.com.vn/csgame" url="http://125.212.194.41">
         <fileTransfer host="125.212.194.41" port="22" privateKey="C:\Users\VinhDat\OneDrive\ssh\TEST_VED\TEST_VED" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
