@@ -1,48 +1,24 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="548bc9a0-6d06-4634-b50f-0a8e4f189c2b" name="test.kannel" url="http://125.212.198.222">
-        <fileTransfer host="125.212.198.222" port="22" privateKey="C:\Users\pc\Desktop\ssh\test.kannel.live.smsgateway\id_rsa_1024" accessType="SFTP" keyPair="true">
+      <webServer id="b2affd69-6410-4b7b-bf90-eb5698dfd309" name="test.ved.com.vn/cskh" url="http://125.212.194.41">
+        <fileTransfer host="125.212.194.41" port="22" privateKey="C:\Users\VinhDat\OneDrive\ssh\TEST_VED\TEST_VED" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="47884f5f-7d5c-4547-bb63-93f080420746" name="test.85" url="http://103.239.121.85">
-        <fileTransfer host="103.239.121.85" port="22" privateKey="C:\Users\pc\Desktop\ssh\test.sms_gateway\pri" accessType="SFTP" keyPair="true">
+      <webServer id="bf2b668c-8d4c-4714-a8f7-653b9eb80614" name="test.ved.com.vn/csgame" url="http://125.212.194.41">
+        <fileTransfer host="125.212.194.41" port="22" privateKey="C:\Users\VinhDat\OneDrive\ssh\TEST_VED\TEST_VED" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="441ea888-25c2-40ac-9ec3-48b1703800c6" name="test.admin.sms" url="http://103.239.121.85">
-        <fileTransfer host="103.239.121.85" port="22" privateKey="C:\Users\pc\Desktop\ssh\test.sms_gateway\pri" rootFolder="/var/www/SmsGateway/source/admin.sms_gateway" accessType="SFTP" keyPair="true">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="c2b09f2e-8977-4214-8353-1762bd6929f3" name="test.sms" url="http://103.239.121.85">
-        <fileTransfer host="103.239.121.85" port="22" privateKey="C:\Users\pc\Desktop\ssh\test.sms_gateway.else\pri" rootFolder="/var/www/SmsGateway/source/sms_gateway" accessType="SFTP" keyPair="true">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="f3a0dbc8-b5ec-47cc-bb64-4acf4ed464b1" name="live.kannel" url="http://125.212.198.222">
-        <fileTransfer host="125.212.198.222" port="2222" privateKey="C:\Users\pc\Desktop\ssh\test.kannel.live.smsgateway\id_rsa_1024" accessType="SFTP" keyPair="true">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="2222" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="b2affd69-6410-4b7b-bf90-eb5698dfd309" name="test.41" url="http://125.212.194.41">
-        <fileTransfer host="125.212.194.41" port="22" privateKey="C:\Users\pc\Desktop\ssh\test.sms_gateway.else\pri" accessType="SFTP" keyPair="true">
+      <webServer id="cfc928ad-b3f5-4419-b1f8-52053ce07a56" name="test.hotro.ved.com.vn" url="http://125.212.194.41">
+        <fileTransfer host="125.212.194.41" port="22" privateKey="C:\Users\VinhDat\OneDrive\ssh\TEST_VED\TEST_VED" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
